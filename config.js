@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'binarysearch.io',
-    photo: '/photo.png'
+    photo: '/photo.png',
     bio: '',
     contacts: {
       email: '',
