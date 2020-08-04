@@ -15,14 +15,10 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'Contact us',
-      path: 'team@binarysearch.io'
-    }
   ],
   author: {
     name: 'binarysearch.io',
-    photo: '/photo.png',
+    photo: '/photo.jpg',
     bio: '',
     contacts: {
       email: '',
