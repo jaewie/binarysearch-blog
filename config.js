@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'binarysearch.io Blog',
-  subtitle: '',
+  subtitle: 'binarysearch.io is a site to learn algorithms with others.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
